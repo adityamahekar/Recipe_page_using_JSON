@@ -15,16 +15,16 @@ Built with **EJS**, **CSS**, and **Node.js + Express**.
 ---
 
 ## 📂 Project Structure
-.
-├── views/
-│ └── index.ejs
-├── public/
-│ └── styles/
-│ └── main.css
-├── recipe.json
-├── index.js
-├── package.json
-└── README.md
+.<br>
+├── views/<br>
+│ └── index.ejs<br>
+├── public/<br>
+│ └── styles/<br>
+│ └── main.css<br>
+├── recipe.json<br>
+├── index.js<br>
+├── package.json<br>
+└── README.md<br>
 
 
 ---
