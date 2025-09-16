@@ -4,12 +4,12 @@ A simple website showcasing taco recipes dynamically using JSON data.
 Built with **EJS**, **CSS**, and **Node.js + Express**.  
 
 ---
-| 🌮 Recipe Page: |
-|----------------|
-| ![Recipe Page 1](./rc1.png) |
-| 🌮 Recipe Page: |
-|----------------|
-| ![Recipe Page 2](./rc2.png) |
+| 🌮 Recipe Page: || 🌮 Recipe Page: |
+|----------------||----------------|
+| ![Recipe Page 1](./rc1.png) || ![Recipe Page 2](./rc2.png) |
+
+
+
 ---
 ## ✨ Features
 - Select between **Chicken, Beef, or Fish** tacos  
