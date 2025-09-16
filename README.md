@@ -6,7 +6,6 @@ Built with **EJS**, **CSS**, and **Node.js + Express**.
 ---
 | 🌮 Recipe Page: |
 |----------------|
-
 | ![Recipe Page 1](./rc1.png) |
 | 🌮 Recipe Page: |
 |----------------|
