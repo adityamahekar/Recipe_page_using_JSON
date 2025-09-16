@@ -53,7 +53,4 @@ node index.js
 
 ---
 
-🔹 This gives you a **clean README with badges (tags)** that will render as images when viewed on GitHub.  
-
-Do you want me to also **add a preview screenshot of your app** (from your browser running it) in the README under "Demo"?
 
